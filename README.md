@@ -33,7 +33,6 @@ About Me
 <br>
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=SatsAjeet&show_icons=true&locale=en&hide_border=true&theme=dark" alt="SatsAjeet" /></p>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SatsAjeet&hide_border=true&theme=dark" alt="Satyajeet" /></p>
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatsAjeet_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="abhishekmardiya" /></p>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
