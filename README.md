@@ -5,6 +5,18 @@
 </h3>
 <br>
  <h2 align="left">☕ Let's Connect</h2>
+ ## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Data Structures and Algorithms,React,Redux.**
+
+- 💬 Ask me about Web Development, Data Structure and Algorithms
+
+- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+
+- 📫 How to reach me **rrs984040@gmail.com**
+- 🤝 For Resume <a href="https://docs.google.com/document/d/1KIyxtN87VUQc2vMcngG50StzQN3YRME5/edit" target="_blank">Click here</a>
+
+- ⚡ Fun fact:- **I have keen interest in learning backend.**
 
 
 <a href="https://www.linkedin.com/in/satyajeet-sahoo-329738178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Satyajeet's linkedin url" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
