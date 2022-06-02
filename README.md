@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
 - 📫 How to reach me **satyajeetsahoooutr@gmail.com**
-- 🤝 For Resume <a href="https://docs.google.com/document/d/1KIyxtN87VUQc2vMcngG50StzQN3YRME5/edit" target="_blank">Click here</a>
+- 🤝 For Resume <a href="https://drive.google.com/file/d/1EkeqapOGKEhZ7fHp4aCy8iDe3l9h471s/view?usp=sharing" target="_blank">Click here</a>
 
 - ⚡ Fun fact:- **I have keen interest in learning backend.**
 
